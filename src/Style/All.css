@@ -1,0 +1,97 @@
+.absolue {
+  position: absolute;
+  top: 150rem;
+}
+.frist {
+  position: absolute;
+  display: flex;
+  justify-content: center;
+}
+
+.photo1 {
+  width: 100vw;
+  height: 67.5px;
+  top: 40rem;
+  position: absolute;
+}
+
+.parent {
+  position: absolute;
+  top: 50rem;
+  /* display: flex; */
+  /* height: 100rem; */
+  /* width: 100rem; */
+  /* justify-content: center; */
+}
+
+.parent2 {
+  position: absolute;
+  top: 100rem;
+  height: 70rem;
+  display: flex;
+  width: 100%;
+}
+
+.parent3 {
+  position: absolute;
+  top: 110rem;
+  display: flex;
+  justify-content: center;
+  padding: 6rem;
+}
+
+.div {
+  height: 50rem;
+  width: 50rem;
+}
+
+.div {
+  /* display: block;
+  display: flex;
+  height:100vh; */
+  width: 1324.28px;
+  height: 690.16px;
+  top: 3940.82px;
+  left: 57.54px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.photo7 {
+  position: absolute;
+  top: 100rem;
+  width: 504.03px;
+  height: 642.04px;
+  opacity: 0px;
+}
+
+.parent4 {
+  position: absolute;
+  top: 100rem;
+  height: Hug (404.52px) px;
+  top: 4666.8px;
+  padding: 150.01px 122.26px 150.01px 122.26px;
+  justify-content: space-between;
+}
+
+.parent5 {
+  position: absolute;
+  top: 120rem;
+  opacity: 0px;
+}
+
+.parent6 {
+  position: absolute;
+  top: 100rem;
+  display: flex;
+  justify-content: center;
+  margin-top: 5rem;
+  opacity: 0px;
+}
+
+.parent7 {
+  position: absolute;
+  top: 100rem;
+  display: flex;
+  justify-content: end;
+}

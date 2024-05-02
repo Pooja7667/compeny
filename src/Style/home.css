@@ -1,0 +1,13 @@
+.main-container{
+/* background-image:url("../Image/bg2.png"); */
+height: 100%;
+width:100%;
+margin: 0%;
+padding: 0%;
+position: relative;
+
+}
+
+img{
+  padding-left:0;
+}

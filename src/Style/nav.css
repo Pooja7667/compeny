@@ -1,0 +1,32 @@
+.navbar {
+  position: absolute;
+  background-color: transparent;
+  top: 0;
+  right: 0;
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content:center;
+  height:60px;
+  color: aliceblue;
+}
+
+.nav-links {
+  list-style: none;
+  display: flex;
+  margin: 0;
+  padding: 0;
+}
+
+.nav-links li {
+  margin-right: 20px;
+}
+
+.nav-links li a {
+  text-decoration: none;
+  color: white;
+}
+
+.L-LOGIN {
+  margin-left: 5rem;
+}
